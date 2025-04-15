@@ -1,0 +1,10 @@
+1001 John Doe 2001 Laptop 799.99 1
+1002 Jane Smith 3002 Mouse 25.50 3
+1003 Alice Johnson 4003 Keyboard 45.00 2
+1001 John Doe 3002 Mouse 25.50 1
+1004 Bob Brown 5004 Monitor 199.99 1
+1005 Charlie White 2001 Laptop 799.99 2
+1002 Jane Smith 4003 Keyboard 45.00 1
+1003 Alice Johnson 5004 Monitor 199.99 2
+1004 Bob Brown 3002 Mouse 25.50 4
+
